@@ -20,7 +20,7 @@ This React project utilizes Clarifai's Face Detection API to recognize faces in 
 
 1. Clone the repository:
    ```bash
-   $ git clone https://github.com/arwin-dev/face-rec-app.git
+   $ git clone https://github.com/arwin-swapna/face-rec-app.git
 2. Navigate into the project directory:
    ```bash
    $ cd face-rec-app
